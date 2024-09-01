@@ -7,6 +7,7 @@
 </picture>
 
 ---
+![pic](https://github.com/rustamismagilov/rustamismagilov/blob/main/catyping.gif?raw=true)
 
 I'm a Game Developer specializing in Unity, currently located in Barcelona. I love bringing virtual worlds to life and experimenting with new mechanics, graphics, and storytelling techniques. 
 I'm also a tech enthusiast, exploring everything related to automations, homelabs, and virtualization.
