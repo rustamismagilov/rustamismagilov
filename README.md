@@ -55,34 +55,58 @@ I'm also a tech enthusiast, exploring everything related to automations, homelab
   <tr>
     <td width="33%">
       <a href="https://github.com/rustamismagilov/Space-Shooter">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Space-Shooter&theme=dark" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Space-Shooter&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Space-Shooter&theme=default">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Space-Shooter" width="100%">
+        </picture>
       </a>
     </td>
     <td width="33%">
       <a href="https://github.com/rustamismagilov/Parkour-game">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Parkour-game&theme=dark" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Parkour-game&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Parkour-game&theme=default">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Parkour-game" width="100%">
+        </picture>
       </a>
     </td>
     <td width="33%">
       <a href="https://github.com/rustamismagilov/SimpleMenu">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=SimpleMenu&theme=dark" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=SimpleMenu&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=SimpleMenu&theme=default">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=SimpleMenu" width="100%">
+        </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td width="33%">
       <a href="https://github.com/rustamismagilov/Tanks-Multiplayer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Tanks-Multiplayer&theme=dark" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Tanks-Multiplayer&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Tanks-Multiplayer&theme=default">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Tanks-Multiplayer" width="100%">
+        </picture>
       </a>
     </td>
     <td width="33%">
       <a href="https://github.com/rustamismagilov/Interstellar-Rescuers">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Interstellar-Rescuers&theme=dark" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Interstellar-Rescuers&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Interstellar-Rescuers&theme=default">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Interstellar-Rescuers" width="100%">
+        </picture>
       </a>
     </td>
     <td width="33%">
       <a href="https://github.com/rustamismagilov/Zombie-Survival-1">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Zombie-Survival-1&theme=dark" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Zombie-Survival-1&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Zombie-Survival-1&theme=default">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rustamismagilov&repo=Zombie-Survival-1" width="100%">
+        </picture>
       </a>
     </td>
   </tr>
